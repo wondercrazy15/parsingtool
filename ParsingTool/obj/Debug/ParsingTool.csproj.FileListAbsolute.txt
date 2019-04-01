@@ -1,0 +1,26 @@
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.exe.config
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.exe
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.pdb
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\bitb.Business.Objects.dll
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\bitb.Parser.dll
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csprojResolveAssemblyReference.cache
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.frmMain.resources
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.Properties.Resources.resources
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.GenerateResource.cache
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.CoreCompileInputs.cache
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.CopyComplete
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.exe
+C:\Users\NS10\Downloads\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.pdb
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.exe.config
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.exe
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\ParsingTool.pdb
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\bitb.Business.Objects.dll
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\bin\Debug\bitb.Parser.dll
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csprojResolveAssemblyReference.cache
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.frmMain.resources
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.Properties.Resources.resources
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.GenerateResource.cache
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.CoreCompileInputs.cache
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.csproj.CopyComplete
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.exe
+E:\project\Text Parsing Project\CSharp Text Parsing Project_Developer Evaluation_Scope of Work\ParsingTool_Final\ParsingTool\obj\Debug\ParsingTool.pdb
